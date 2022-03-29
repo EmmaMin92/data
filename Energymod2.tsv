@@ -1,0 +1,301 @@
+Date 	Type 	Average 
+2018-01	Demand	18574
+2018-02	Demand	17594
+2018-03	Demand	18384
+2018-04	Demand	15501
+2018-05	Demand	15360
+2018-06	Demand	15162
+2018-07	Demand	16093
+2018-08	Demand	15700
+2018-09	Demand	15404
+2018-10	Demand	16336
+2018-11	Demand	17099
+2018-12	Demand	17848
+2019-01	Demand	18222
+2019-02	Demand	15784
+2019-03	Demand	16258
+2019-04	Demand	14698
+2019-05	Demand	14731
+2019-06	Demand	14235
+2019-07	Demand	15207
+2019-08	Demand	14557
+2019-09	Demand	14313
+2019-10	Demand	15210
+2019-11	Demand	15969
+2019-12	Demand	16488
+2020-01	Demand	17383
+2020-02	Demand	15922
+2020-03	Demand	15672
+2020-04	Demand	12870
+2020-05	Demand	13145
+2020-06	Demand	13173
+2020-07	Demand	14510
+2020-08	Demand	14318
+2020-09	Demand	14208
+2020-10	Demand	15294
+2020-11	Demand	15568
+2020-12	Demand	16808
+2021-01	Demand	17716
+2021-02	Demand	15672
+2021-03	Demand	16457
+2021-04	Demand	14863
+2021-05	Demand	14476
+2021-06	Demand	14259
+2021-07	Demand	15036
+2021-08	Demand	14481
+2021-09	Demand	14333
+2021-10	Demand	15208
+2021-11	Demand	16153
+2021-12	Demand	17193
+2022-01	Demand	17547
+2022-02	Demand	15635
+2018-01	Fossil	1991
+2018-02	Fossil	2056
+2018-03	Fossil	1938
+2018-04	Fossil	1429
+2018-05	Fossil	1462
+2018-06	Fossil	1552
+2018-07	Fossil	1854
+2018-08	Fossil	1807
+2018-09	Fossil	1783
+2018-10	Fossil	1931
+2018-11	Fossil	2060
+2018-12	Fossil	1969
+2019-01	Fossil	2102
+2019-02	Fossil	1703
+2019-03	Fossil	1535
+2019-04	Fossil	1417
+2019-05	Fossil	1391
+2019-06	Fossil	1359
+2019-07	Fossil	1641
+2019-08	Fossil	1547
+2019-09	Fossil	1534
+2019-10	Fossil	1711
+2019-11	Fossil	1763
+2019-12	Fossil	1597
+2020-01	Fossil	1804
+2020-02	Fossil	1421
+2020-03	Fossil	1347
+2020-04	Fossil	999
+2020-05	Fossil	1043
+2020-06	Fossil	1247
+2020-07	Fossil	1499
+2020-08	Fossil	1532
+2020-09	Fossil	1555
+2020-10	Fossil	1495
+2020-11	Fossil	1698
+2020-12	Fossil	1760
+2021-01	Fossil	1845
+2021-02	Fossil	1477
+2021-03	Fossil	1571
+2021-04	Fossil	1433
+2021-05	Fossil	1171
+2021-06	Fossil	1365
+2021-07	Fossil	1469
+2021-08	Fossil	1359
+2021-09	Fossil	1562
+2021-10	Fossil	1531
+2021-11	Fossil	1874
+2021-12	Fossil	1855
+2022-01	Fossil	1856
+2022-02	Fossil	1481
+2018-01	Net imports	-23
+2018-02	Net imports	84
+2018-03	Net imports	-16
+2018-04	Net imports	28
+2018-05	Net imports	152
+2018-06	Net imports	171
+2018-07	Net imports	122
+2018-08	Net imports	173
+2018-09	Net imports	69
+2018-10	Net imports	-6
+2018-11	Net imports	53
+2018-12	Net imports	-61
+2019-01	Net imports	6
+2019-02	Net imports	-50
+2019-03	Net imports	-107
+2019-04	Net imports	24
+2019-05	Net imports	41
+2019-06	Net imports	108
+2019-07	Net imports	238
+2019-08	Net imports	271
+2019-09	Net imports	143
+2019-10	Net imports	51
+2019-11	Net imports	25
+2019-12	Net imports	-64
+2020-01	Net imports	-13
+2020-02	Net imports	-64
+2020-03	Net imports	25
+2020-04	Net imports	75
+2020-05	Net imports	132
+2020-06	Net imports	166
+2020-07	Net imports	227
+2020-08	Net imports	243
+2020-09	Net imports	272
+2020-10	Net imports	195
+2020-11	Net imports	41
+2020-12	Net imports	85
+2021-01	Net imports	141
+2021-02	Net imports	49
+2021-03	Net imports	63
+2021-04	Net imports	53
+2021-05	Net imports	148
+2021-06	Net imports	218
+2021-07	Net imports	190
+2021-08	Net imports	101
+2021-09	Net imports	83
+2021-10	Net imports	-29
+2021-11	Net imports	24
+2021-12	Net imports	42
+2022-01	Net imports	8
+2022-02	Net imports	-68
+2018-01	Nuclear	5013
+2018-02	Nuclear	4533
+2018-03	Nuclear	4631
+2018-04	Nuclear	3963
+2018-05	Nuclear	3796
+2018-06	Nuclear	3789
+2018-07	Nuclear	4033
+2018-08	Nuclear	3833
+2018-09	Nuclear	3841
+2018-10	Nuclear	4056
+2018-11	Nuclear	4119
+2018-12	Nuclear	4728
+2019-01	Nuclear	4628
+2019-02	Nuclear	4185
+2019-03	Nuclear	4297
+2019-04	Nuclear	3920
+2019-05	Nuclear	3743
+2019-06	Nuclear	3547
+2019-07	Nuclear	3728
+2019-08	Nuclear	3711
+2019-09	Nuclear	3631
+2019-10	Nuclear	3820
+2019-11	Nuclear	3813
+2019-12	Nuclear	4165
+2020-01	Nuclear	4402
+2020-02	Nuclear	3902
+2020-03	Nuclear	3825
+2020-04	Nuclear	3338
+2020-05	Nuclear	3116
+2020-06	Nuclear	2847
+2020-07	Nuclear	3072
+2020-08	Nuclear	3096
+2020-09	Nuclear	3063
+2020-10	Nuclear	3520
+2020-11	Nuclear	3735
+2020-12	Nuclear	4135
+2021-01	Nuclear	4374
+2021-02	Nuclear	3758
+2021-03	Nuclear	3975
+2021-04	Nuclear	3485
+2021-05	Nuclear	3413
+2021-06	Nuclear	3406
+2021-07	Nuclear	3640
+2021-08	Nuclear	3679
+2021-09	Nuclear	3637
+2021-10	Nuclear	3800
+2021-11	Nuclear	3784
+2021-12	Nuclear	3951
+2022-01	Nuclear	4077
+2022-02	Nuclear	3509
+2018-01	Production	18598
+2018-02	Production	17510
+2018-03	Production	18399
+2018-04	Production	15473
+2018-05	Production	15207
+2018-06	Production	14992
+2018-07	Production	15971
+2018-08	Production	15526
+2018-09	Production	15335
+2018-10	Production	16343
+2018-11	Production	17046
+2018-12	Production	17909
+2019-01	Production	18215
+2019-02	Production	15834
+2019-03	Production	16365
+2019-04	Production	14674
+2019-05	Production	14691
+2019-06	Production	14127
+2019-07	Production	14970
+2019-08	Production	14286
+2019-09	Production	14170
+2019-10	Production	15159
+2019-11	Production	15944
+2019-12	Production	16552
+2020-01	Production	17395
+2020-02	Production	15987
+2020-03	Production	15647
+2020-04	Production	12795
+2020-05	Production	13014
+2020-06	Production	13007
+2020-07	Production	14284
+2020-08	Production	14075
+2020-09	Production	13936
+2020-10	Production	15099
+2020-11	Production	15527
+2020-12	Production	16723
+2021-01	Production	17575
+2021-02	Production	15623
+2021-03	Production	16394
+2021-04	Production	14810
+2021-05	Production	14328
+2021-06	Production	14041
+2021-07	Production	14846
+2021-08	Production	14380
+2021-09	Production	14250
+2021-10	Production	15238
+2021-11	Production	16129
+2021-12	Production	17152
+2022-01	Production	17539
+2022-02	Production	15704
+2018-01	Renewables	1185
+2018-02	Renewables	1012
+2018-03	Renewables	1263
+2018-04	Renewables	1205
+2018-05	Renewables	1159
+2018-06	Renewables	1047
+2018-07	Renewables	960
+2018-08	Renewables	948
+2018-09	Renewables	926
+2018-10	Renewables	970
+2018-11	Renewables	999
+2018-12	Renewables	1121
+2019-01	Renewables	1108
+2019-02	Renewables	1027
+2019-03	Renewables	1242
+2019-04	Renewables	1068
+2019-05	Renewables	1127
+2019-06	Renewables	1078
+2019-07	Renewables	993
+2019-08	Renewables	931
+2019-09	Renewables	935
+2019-10	Renewables	959
+2019-11	Renewables	1078
+2019-12	Renewables	1257
+2020-01	Renewables	1220
+2020-02	Renewables	1333
+2020-03	Renewables	1337
+2020-04	Renewables	1130
+2020-05	Renewables	1185
+2020-06	Renewables	1080
+2020-07	Renewables	1097
+2020-08	Renewables	1025
+2020-09	Renewables	985
+2020-10	Renewables	1174
+2020-11	Renewables	1059
+2020-12	Renewables	1172
+2021-01	Renewables	1229
+2021-02	Renewables	1245
+2021-03	Renewables	1284
+2021-04	Renewables	1171
+2021-05	Renewables	1291
+2021-06	Renewables	1085
+2021-07	Renewables	1119
+2021-08	Renewables	1103
+2021-09	Renewables	927
+2021-10	Renewables	1117
+2021-11	Renewables	1035
+2021-12	Renewables	1221
+2022-01	Renewables	1274
+2022-02	Renewables	1309
